@@ -28,13 +28,21 @@ A classifier is a Supervised function (machine learning tool) where the learned 
 
 
 Step1 Capture Video
+
 Step2 Detect Face.
+
 step3 Draw Lines on Detected Face.
+
 step3 train images..
+
 step4 Detect Face.
+
 Step5 Match with Dataset.
+
 step6 compare confidence.
+
 step7 search for id of that face.
+
 step8 write name on the face detected.
  
 
